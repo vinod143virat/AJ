@@ -1,0 +1,39 @@
+
+
+ul {
+    
+    float: right;
+  
+    
+    
+  }
+  
+li {
+    display: inline;
+    margin-right: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    
+   
+    
+  } 
+
+  img{
+      height: 60px;
+      width: 90px;
+      float: left;
+      margin-top: 10px;
+      margin-left: 20px;
+  }
+
+  .Navbar{
+    display: flex;
+    text-decoration-style: none;
+    
+  }
+ 
+  
+  
+  
+
+  
